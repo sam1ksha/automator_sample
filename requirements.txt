@@ -1,0 +1,7 @@
+pandas
+numpy
+gspread-pandas
+google-auth
+snowflake-connector-python[pandas]
+cryptography
+python-dotenv
